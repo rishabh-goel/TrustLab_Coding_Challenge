@@ -5,6 +5,6 @@ For my final approach, I explore the results from https://index.commoncrawl.org/
 My initial approach was to scan through and open every article using the sample implementation provided by TrustLab. I was able to print the HTML content but while storing it to a list, it was not getting append(Not sure why!)
 
 # Assumptions
-The pages should be from a trusted and most popular news site
-The pages should mention covid-19 about 20 times
-The pages should also mention economic factors about 5 times
+1. The pages should be from a trusted and most popular news site
+2. The pages should mention covid-19 about 20 times
+3. The pages should also mention economic factors about 5 times
